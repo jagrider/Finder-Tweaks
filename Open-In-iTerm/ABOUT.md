@@ -14,7 +14,7 @@ This tool is a simple Finder addon in the form of an AppleScript App. When click
 
 ![](../Images/1-Automator.png)
 
-4. Paste the code found in [Main.applescript](./Open-In-iTerm.applescript)
+4. Paste the code found in [Open-In-iTerm.applescript](./Open-In-iTerm.applescript)
 5. `File` -> `Save` -> Choose a location and name. I named mine `iTermOpenScript.app`.
 
 ### Step 2: Update the Icon
