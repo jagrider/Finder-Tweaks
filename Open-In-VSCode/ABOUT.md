@@ -10,7 +10,7 @@ This tool is a simple Finder addon in the form of an AppleScript App. When click
 1. Open the Automator app
 2. `File` -> `New` -> `Application`
 3. Under `Actions`, select `Run AppleScript`
-
+ 
 ![](../Images/1-Automator.png)
 
 4. Paste the code found in [Open-In-VSCode.applescript](./Open-In-VSCode.applescript)
