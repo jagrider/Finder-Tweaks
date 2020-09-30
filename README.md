@@ -2,6 +2,7 @@
 Tweaks and Addons for Finder that I use on my personal and work machines
 
 ## Available Tweaks
+- [Open in VSCode](./Open-In-VSCode/ABOUT.md)
 - [Open in Atom](./Open-In-Atom/ABOUT.md)
 - [Open in iTerm](./Open-In-iTerm/ABOUT.md)
 
